@@ -12,12 +12,12 @@ Algoritma dari Source code ini yaitu : <br>
 <li>User menginputkan berapa banyak baris pada array.</li>
 <li>User menginputkan berapa banyak kolom pada array.</li>
 <li>User menginputkan satu persatu nilai array, dimulai dari baris dan kolom pertama [1]:[1].</li>
-<li>Setelah semua terisi, nilai dalam array tersebut di tampilkan sesuai aturan matriks.</li>
-<li>Kemudiam matriks yang sudah diperoleh akan ditampilkan juga nilai yang sudah dibalik, dari baris menjadi kolom dan sebaliknya.</li>
+<li>Setelah semua terisi, nilai dalam array tersebut ditampilkan sesuai aturan matriks.</li>
+<li>Kemudian matriks yang sudah diperoleh akan ditampilkan juga nilai yang sudah dibalik, dari baris menjadi kolom dan sebaliknya.</li>
 </ol>
 
 ## Source Code
-  ```shell
+```shell
 #include <iostream>
 using namespace std;
 
